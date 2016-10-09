@@ -1,2 +1,4 @@
 # hello-word
-this is my first github repository
+hi there,
+
+yhis is my first github repository
